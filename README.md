@@ -38,3 +38,7 @@ One catering business, end to end: getting found, converting enquiries, repeat o
 6. **Every agent ships with evals.** I test against real scenarios and edge cases before I trust the output, and rerun the tests whenever something changes.
 7. **Decisions get written down.** Each project keeps a build log of what I tried, what I dropped and why.
 8. **Privacy first.** Real customer data stays private. Public repos only ever hold anonymised sample data.
+
+## Get in touch
+
+[LinkedIn](https://www.linkedin.com/in/yash-todi1996/)

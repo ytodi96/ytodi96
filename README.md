@@ -1,10 +1,14 @@
 # Yash Todi
 
-**Founder and Chief of Staff · Ex-McKinsey · Building AI agents for real operations**
+**Co-founder & COO, The Lemon Bowl · Ex-McKinsey · Building AI tools for real business operations**
 
-I'm the founder and Chief of Staff at two ventures, where I built the operating infrastructure, commercial engine and team from zero to profitability. Before that, I spent 6+ years at McKinsey working with C-suite leaders to shape strategy, set up operating cadences and governance, and deploy AI tools inside client environments.
+I co-founded The Lemon Bowl, a premium platter and catering business in Delhi NCR, and ran it as COO. I built its operating infrastructure, sales engine and a 35+ person team, took it from a home kitchen to 5,000+ deliveries a year, and made it profitable in under 5 months.
 
-The work I enjoy most is finding where a business is slow, manual or error-prone, and building the process or tool that fixes it. At McKinsey that meant planning cycles, dashboards and executive reporting that leadership teams ran on. At Lemon Bowl it now means AI agents. This page is where I share them: what each one solves, how it works, and the decisions behind it.
+Before that, I was Chief of Staff at an early-stage consumer startup in New York, and spent 6+ years at McKinsey working with C-suite leaders on strategy, operating cadences and governance, and deploying AI platforms inside client environments.
+
+The work I enjoy most is finding where a business is slow, manual or error-prone, and building the process or tool that fixes it. At McKinsey that meant planning cycles, dashboards and executive reporting that leadership teams ran on. At The Lemon Bowl it now means AI agents. This page is where I share them: what each one solves, how it works, and the decisions behind it.
+
+**Start here:** the [Sales Copilot](https://github.com/ytodi96/lemonbowl-sales-copilot) (an AI agent drafting quotes and replies for a real business), the [Eval & Rubric Studio](https://github.com/ytodi96/eval-rubric-studio) (how I measure AI quality), or the [live website demo](https://ytodi96.github.io/lemonbowl-website/).
 
 ## AI across one real small business: The Lemon Bowl
 
@@ -29,7 +33,7 @@ One catering business, end to end: getting found, converting enquiries, repeat o
 1. **I own the thinking.** I define the problem, the user and what "good" looks like before I open an AI tool. AI speeds up the build. The judgement on what to build, and whether it works, stays with me.
 2. **Context in, quality out.** I brief a model the way I'd brief a new team member: the goal, the constraints, real (anonymised) examples and the exact output I want back.
 3. **Small steps, checked as I go.** I break work into pieces I can review one at a time, rather than one big prompt and a hope.
-4. **The LLM decides and writes, code does the maths.** Models handle judgement and language. Prices, totals and dates come from plain code, so they are right every time.
+4. **The LLM decides and writes, code does the maths.** Models handle judgement and language. Prices, totals and dates come from plain code, so they're consistent and testable.
 5. **A human approves every customer message.** Agents draft. A person reviews and sends.
 6. **Every agent ships with evals.** I test against real scenarios and edge cases before I trust the output, and rerun the tests whenever something changes.
 7. **Decisions get written down.** Each project keeps a build log of what I tried, what I dropped and why.

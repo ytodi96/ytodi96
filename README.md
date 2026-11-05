@@ -13,7 +13,7 @@ One catering business, end to end: getting found, converting enquiries, repeat o
 | Solution | Problem | Status | Link |
 |---|---|---|---|
 | Website | Customers couldn't plan an event online: no way to see how dishes scale with guest count, customise them, or request a catering quote without a long WhatsApp thread. | 🟡 Prototype (demo live) | [Live demo](https://ytodi96.github.io/lemonbowl-website/) · [Code](https://github.com/ytodi96/lemonbowl-website) |
-| Sales Copilot | The sales rep spends hours building menus, quoting orders and handling customer issues on WhatsApp. This AI copilot drafts all three for the rep to approve. | 🚧 In build | Repo coming soon |
+| Sales Copilot | The sales rep spends hours building menus, quoting orders and handling customer issues on WhatsApp. This AI copilot drafts all three for the rep to approve. | 🚧 In build | [Code](https://github.com/ytodi96/lemonbowl-sales-copilot) |
 | Customer Retention & Upsell Agent | Most revenue comes from repeat customers, but nobody tracks who ordered when or when to reach out, so festive repeats and catering upgrades get missed. | 📋 Planned | Coming soon |
 | Finance Copilot | The books are spread across accounting exports, bank statements and spreadsheets, so questions like "why was October's margin down?" take days to answer. | 📋 Planned | Coming soon |
 
@@ -21,7 +21,7 @@ One catering business, end to end: getting found, converting enquiries, repeat o
 
 | Solution | Problem | Status | Link |
 |---|---|---|---|
-| Eval & Rubric Studio | Teams ship AI features without knowing whether outputs are good, or whether a prompt change made things better or worse. | 🚧 In build | Repo coming soon |
+| Eval & Rubric Studio | Teams ship AI features without knowing whether outputs are good, or whether a prompt change made things better or worse. | 🚧 In build | [Code](https://github.com/ytodi96/eval-rubric-studio) |
 | Trip Planner Research Agent | Planning a trip means hours across Reddit, blogs and YouTube. This agent researches them, ranks places by how many sources agree, and builds a cited day-by-day plan. | 📋 Planned | Coming soon |
 
 ## How I build
